@@ -1,0 +1,15 @@
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/bin/Debug/net7.0/EXERCICESLINQ
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/bin/Debug/net7.0/EXERCICESLINQ.deps.json
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/bin/Debug/net7.0/EXERCICESLINQ.runtimeconfig.json
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/bin/Debug/net7.0/EXERCICESLINQ.dll
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/bin/Debug/net7.0/EXERCICESLINQ.pdb
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.csproj.AssemblyReference.cache
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.AssemblyInfoInputs.cache
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.AssemblyInfo.cs
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.csproj.CoreCompileInputs.cache
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.dll
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/refint/EXERCICESLINQ.dll
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.pdb
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/EXERCICESLINQ.genruntimeconfig.cache
+/Users/ngdev/NGDEV/DotNet/EXERCICESLINQ/obj/Debug/net7.0/ref/EXERCICESLINQ.dll
